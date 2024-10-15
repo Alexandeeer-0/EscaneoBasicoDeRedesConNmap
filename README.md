@@ -16,5 +16,5 @@ Este proyecto permite realizar múltiples tipos de escaneo en una red local, inc
 - Generación de reportes en formatos TXT: Todos los resultados de los escaneos se guardan en archivos con fecha y hora.
 
 ## Herramientas Utilizadas
-Kali Linux: Sistema operativo usado para realizar los escaneos.
-Nmap: Herramienta principal de escaneo de redes.
+- Kali Linux: Sistema operativo usado para realizar los escaneos.
+- Nmap: Herramienta principal de escaneo de redes.
